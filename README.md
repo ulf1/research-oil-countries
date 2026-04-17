@@ -1,5 +1,7 @@
 # Buzzword Search for the smaller oil producing countries
 
+click [here](https://github.com/ulf1/research-oil-countries/blob/master/02-buzzword/summary.md) for the final result. 
+
 ## Approach:
 
 - `01-who/prompt.md` generated the four `01-who/answer - *.md` files (using ChatGPT, Mistral, Claude, Gemini websites; all Thinking mode)
