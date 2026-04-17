@@ -4,7 +4,7 @@
 
 - `01-who/prompt.md` generated the four `01-who/answer - *.md` files (using ChatGPT, Mistral, Claude, Gemini websites; all Thinking mode)
 - `01-who/prompt2.md` merges the four `01-who/answer - *.md` files into `01-who/summary.md` (using github copilot with Sonnet 4.6)
-- `02-buzzword/prompt.md` and `01-who/summary.md` generate `02-buzzword/answer - *.md` files (using ChatGPT, Mistral, Claude, Gemini websites; all Thinking mode)
+- `02-buzzword/prompt.md` and `01-who/summary.md` and `01-who/answer - *.md` generate `02-buzzword/answer - *.md` files (using ChatGPT, Mistral, Claude, Gemini websites; all Thinking mode)
 - `02-buzzword/prompt2.md` merges the four `02-buzzword/answer - *.md` files into `02-buzzword/summary.md` (using github copilot with Sonnet 4.6)
 
 
@@ -23,7 +23,8 @@ flowchart TD
     p2 --> cop1["GitHub Copilot\n(Sonnet 4.6)"]
     cop1 --> s1["`01-who/summary.md`"]
 
-    s1 --> p3["`**02-buzzword/prompt.md**`"]
+    a1 --> p3["`**02-buzzword/prompt.md**`"]
+    s1 --> p3
     p3 --> llm2["ChatGPT / Mistral / Claude / Gemini\n(Thinking mode)"]
     llm2 --> a2["`02-buzzword/answer - *.md\n(4 files)`"]
     a2 --> p4["`**02-buzzword/prompt2.md**`"]
