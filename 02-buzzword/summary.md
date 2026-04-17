@@ -44,68 +44,68 @@ Twelve novel ideas distilled by cross-breeding the strongest concepts from all f
 
 *Scores from ChatGPT, Claude, Gemini, and Mistral reproduced as-is from original analyses. Synthesised proposals scored using the same 1–5 rubric. Ordered by Total (desc); ties sorted alphabetically.*
 
-| Rank | Proposal | Hook | Viral | Unique | **Total** | Source |
-|:---:|---|:---:|:---:|:---:|:---:|---|
-| 1 | **DARK NOVA** | 5 | 5 | 5 | **15** | Synthesised |
-| 2 | **EMERGE12** | 5 | 5 | 5 | **15** | Mistral |
-| 3 | **The Mavericks** | 5 | 5 | 5 | **15** | Claude |
-| 4 | **NOVA** | 5 | 5 | 5 | **15** | Claude |
-| 5 | **VORTEX** | 5 | 5 | 5 | **15** | Synthesised |
-| 6 | **ALPHA GANG** | 5 | 5 | 4 | **14** | Synthesised |
-| 7 | **BEYOND7** | 5 | 5 | 4 | **14** | Mistral |
-| 8 | **Dark Horses** | 5 | 5 | 4 | **14** | Claude |
-| 9 | **G.A.N.G.** | 5 | 5 | 4 | **14** | Gemini |
-| 10 | **OPAQUE** | 4 | 5 | 5 | **14** | Synthesised |
-| 11 | **The OOP** | 4 | 5 | 5 | **14** | Gemini |
-| 12 | **PHANTOM BARRELS** | 5 | 5 | 4 | **14** | Synthesised |
-| 13 | **Swing Bloc** | 5 | 5 | 4 | **14** | ChatGPT |
-| 14 | **SWAY** | 5 | 4 | 5 | **14** | Synthesised |
-| 15 | **FUTURE12** | 5 | 4 | 4 | **13** | Mistral |
-| 16 | **NEXUS-12** | 4 | 4 | 5 | **13** | Mistral |
-| 17 | **Non-Aligned Barrels (NAB)** | 4 | 5 | 4 | **13** | ChatGPT |
-| 18 | **OASIS** | 5 | 4 | 4 | **13** | Mistral |
-| 19 | **Oil Swing States** | 4 | 5 | 4 | **13** | ChatGPT |
-| 20 | **PIVOT12** | 5 | 5 | 3 | **13** | Mistral |
-| 21 | **RISING12** | 5 | 5 | 3 | **13** | Mistral |
-| 22 | **The Shadow Fringe** | 5 | 4 | 4 | **13** | Gemini |
-| 23 | **WILDCARDS** | 5 | 5 | 3 | **13** | Synthesised |
-| 24 | **ALPHA12** | 4 | 4 | 4 | **12** | Mistral |
-| 25 | **The Alt-Crude Club** | 3 | 4 | 5 | **12** | Gemini |
-| 26 | **Barrel Belt** | 5 | 4 | 3 | **12** | ChatGPT |
-| 27 | **FLOW** | 4 | 4 | 4 | **12** | Claude |
-| 28 | **Friction Bloc** | 4 | 4 | 4 | **12** | ChatGPT |
-| 29 | **FLUX** | 4 | 4 | 4 | **12** | Synthesised |
-| 30 | **HORIZON** | 4 | 4 | 4 | **12** | Mistral |
-| 31 | **NEXTGEN** | 5 | 4 | 3 | **12** | Mistral |
-| 32 | **ORBIT** | 4 | 4 | 4 | **12** | Synthesised |
-| 33 | **Route-Risk Ring** | 3 | 4 | 5 | **12** | ChatGPT |
-| 34 | **SWING NOVA** | 4 | 4 | 4 | **12** | Synthesised |
-| 35 | **VANGUARD** | 4 | 4 | 4 | **12** | Mistral |
-| 36 | **Volatility Belt** | 4 | 4 | 4 | **12** | ChatGPT |
-| 37 | **APEX** | 4 | 4 | 3 | **11** | Claude |
-| 38 | **The Atlantic Surge** | 4 | 3 | 4 | **11** | Gemini |
-| 39 | **B.G.K.N.** | 3 | 4 | 4 | **11** | Gemini |
-| 40 | **E13 Energy Bloc** | 4 | 3 | 4 | **11** | ChatGPT |
-| 41 | **Frontier Flash** | 4 | 3 | 4 | **11** | Gemini |
-| 42 | **GROWTH12** | 4 | 4 | 3 | **11** | Mistral |
-| 43 | **Liquid Alpha** | 4 | 4 | 3 | **11** | Gemini |
-| 44 | **MAVERICK BARRELS** | 4 | 4 | 3 | **11** | Synthesised |
-| 45 | **The Neo-Basins** | 3 | 3 | 5 | **11** | Gemini |
-| 46 | **The Outer Ring** | 4 | 3 | 4 | **11** | Claude |
-| 47 | **Petro Periphery** | 4 | 3 | 4 | **11** | ChatGPT |
-| 48 | **SURGE-13** | 4 | 4 | 3 | **11** | Claude |
-| 49 | **SURGE RING** | 4 | 4 | 3 | **11** | Synthesised |
-| 50 | **Upstream Undercard** | 4 | 3 | 4 | **11** | ChatGPT |
-| 51 | **The Wildcard 12** | 4 | 4 | 3 | **11** | Gemini |
-| 52 | **Atlantic Arc** | 3 | 3 | 4 | **10** | Claude |
-| 53 | **G.A.B.N.** | 3 | 3 | 4 | **10** | Gemini |
-| 54 | **New Petrostates** | 4 | 3 | 3 | **10** | ChatGPT |
-| 55 | **Price-Maker Fringe** | 3 | 4 | 3 | **10** | ChatGPT |
-| 56 | **The Surge Seven** | 4 | 3 | 3 | **10** | Gemini |
-| 57 | **TITAN** | 4 | 3 | 3 | **10** | Claude |
-| 58 | **WILDCATTERS** | 3 | 3 | 4 | **10** | Claude |
-| 59 | **BLINK** | 3 | 2 | 4 | **9** | Claude |
-| 60 | **FRONTIER 13** | 3 | 3 | 3 | **9** | Claude |
+| Rank | Proposal | Meaning | Hook | Viral | Unique | **Total** | Source |
+|:---:|---|---|:---:|:---:|:---:|:---:|---|
+| 1 | **DARK NOVA** | Darkened Non-OPEC Volatile Ascendants | 5 | 5 | 5 | **15** | Synthesised |
+| 2 | **EMERGE12** | Emerging Major Energy Resource Group of 12 | 5 | 5 | 5 | **15** | Mistral |
+| 3 | **The Mavericks** | Independent producers outside all core blocs | 5 | 5 | 5 | **15** | Claude |
+| 4 | **NOVA** | Non-OPEC Volatile Ascendants | 5 | 5 | 5 | **15** | Claude |
+| 5 | **VORTEX** | Volatile Output Resurgence: The Exchange-13 | 5 | 5 | 5 | **15** | Synthesised |
+| 6 | **ALPHA GANG** | High-return disruptors; no formal backronym | 5 | 5 | 4 | **14** | Synthesised |
+| 7 | **BEYOND7** | Beyond the G7 | 5 | 5 | 4 | **14** | Mistral |
+| 8 | **Dark Horses** | Undervalued producers poised to reshape supply | 5 | 5 | 4 | **14** | Claude |
+| 9 | **G.A.N.G.** | Guyana, Angola, Nigeria, Gabon | 5 | 5 | 4 | **14** | Gemini |
+| 10 | **OPAQUE** | Other Producers Ascending: Quota-Exempt | 4 | 5 | 5 | **14** | Synthesised |
+| 11 | **The OOP** | Outlier OPEC-Plus (chronic over-producers) | 4 | 5 | 5 | **14** | Gemini |
+| 12 | **PHANTOM BARRELS** | Barrels appearing unexpectedly in supply data | 5 | 5 | 4 | **14** | Synthesised |
+| 13 | **Swing Bloc** | The market-moving swing-producer coalition | 5 | 5 | 4 | **14** | ChatGPT |
+| 14 | **SWAY** | Sovereign Wildcatters Ascending in Yield | 5 | 4 | 5 | **14** | Synthesised |
+| 15 | **FUTURE12** | Future-Unified Trade & Energy Resource 12 | 5 | 4 | 4 | **13** | Mistral |
+| 16 | **NEXUS-12** | New Energy Xchange Unified Syndicate of 12 | 4 | 4 | 5 | **13** | Mistral |
+| 17 | **Non-Aligned Barrels (NAB)** | Non-aligned geopolitical oil supply | 4 | 5 | 4 | **13** | ChatGPT |
+| 18 | **OASIS** | Oil & Alternative Strategic Independent States | 5 | 4 | 4 | **13** | Mistral |
+| 19 | **Oil Swing States** | Producers that tip global prices & narratives | 4 | 5 | 4 | **13** | ChatGPT |
+| 20 | **PIVOT12** | Pivotal 12 — the supply fulcrum nations | 5 | 5 | 3 | **13** | Mistral |
+| 21 | **RISING12** | Rapidly Industrialising States In New Growth — 12 | 5 | 5 | 3 | **13** | Mistral |
+| 22 | **The Shadow Fringe** | Shadow-fleet producers at the market fringe | 5 | 4 | 4 | **13** | Gemini |
+| 23 | **WILDCARDS** | Unpredictable, game-changing producers | 5 | 5 | 3 | **13** | Synthesised |
+| 24 | **ALPHA12** | Alliance of Leading Producers in Hydrocarbons & Alternatives | 4 | 4 | 4 | **12** | Mistral |
+| 25 | **The Alt-Crude Club** | Alternative to OPEC / North American crude dominance | 3 | 4 | 5 | **12** | Gemini |
+| 26 | **Barrel Belt** | Geographic-industrial oil production zone | 5 | 4 | 3 | **12** | ChatGPT |
+| 27 | **FLOW** | Frontier Liquid Output Wildcatters | 4 | 4 | 4 | **12** | Claude |
+| 28 | **Friction Bloc** | Producers defined by sanctions, chokepoints & logistics pain | 4 | 4 | 4 | **12** | ChatGPT |
+| 29 | **FLUX** | Frontier Liquid Upstream eXporters | 4 | 4 | 4 | **12** | Synthesised |
+| 30 | **HORIZON** | High-Output Resource Independent Zone Of New Energy | 4 | 4 | 4 | **12** | Mistral |
+| 31 | **NEXTGEN** | Next Generation Energy Network | 5 | 4 | 3 | **12** | Mistral |
+| 32 | **ORBIT** | Other Rising Barrels In Transition | 4 | 4 | 4 | **12** | Synthesised |
+| 33 | **Route-Risk Ring** | Map of geopolitical & shipping-disruption exposure | 3 | 4 | 5 | **12** | ChatGPT |
+| 34 | **SWING NOVA** | Swing Non-OPEC Volatile Ascendants | 4 | 4 | 4 | **12** | Synthesised |
+| 35 | **VANGUARD** | Vital Alliance of New Growth Unified by Ambition, Resources & Development | 4 | 4 | 4 | **12** | Mistral |
+| 36 | **Volatility Belt** | Producers capable of fast, market-moving output surprises | 4 | 4 | 4 | **12** | ChatGPT |
+| 37 | **APEX** | Atlantic-Pacific Exporters X | 4 | 4 | 3 | **11** | Claude |
+| 38 | **The Atlantic Surge** | Atlantic-basin output surge (Brazil, Guyana, Norway) | 4 | 3 | 4 | **11** | Gemini |
+| 39 | **B.G.K.N.** | Brazil, Guyana, Kazakhstan, Norway ("Big-Kin") | 3 | 4 | 4 | **11** | Gemini |
+| 40 | **E13 Energy Bloc** | Cluster E — 13-nation energy bloc | 4 | 3 | 4 | **11** | ChatGPT |
+| 41 | **Frontier Flash** | Sudden output spikes from frontier emerging states | 4 | 3 | 4 | **11** | Gemini |
+| 42 | **GROWTH12** | Global Resource Output With Transformative High-Yield — 12 | 4 | 4 | 3 | **11** | Mistral |
+| 43 | **Liquid Alpha** | High-margin, fastest-growing production returns | 4 | 4 | 3 | **11** | Gemini |
+| 44 | **MAVERICK BARRELS** | Independent, non-aligned barrels from maverick producers | 4 | 4 | 3 | **11** | Synthesised |
+| 45 | **The Neo-Basins** | Pre-salt, Vaca Muerta & Stabroek as the new global standard | 3 | 3 | 5 | **11** | Gemini |
+| 46 | **The Outer Ring** | Producers outside OPEC core, GCC, US & China | 4 | 3 | 4 | **11** | Claude |
+| 47 | **Petro Periphery** | Peripheral but market-relevant oil producers | 4 | 3 | 4 | **11** | ChatGPT |
+| 48 | **SURGE-13** | 13-nation supply-surge coalition | 4 | 4 | 3 | **11** | Claude |
+| 49 | **SURGE RING** | Surging outer ring of global production | 4 | 4 | 3 | **11** | Synthesised |
+| 50 | **Upstream Undercard** | The behind-the-scenes names that move supply | 4 | 3 | 4 | **11** | ChatGPT |
+| 51 | **The Wildcard 12** | 12 minor producers whose volatility shapes sentiment | 4 | 4 | 3 | **11** | Gemini |
+| 52 | **Atlantic Arc** | Atlantic-basin deepwater production arc | 3 | 3 | 4 | **10** | Claude |
+| 53 | **G.A.B.N.** | Guyana, Argentina, Brazil, Norway | 3 | 3 | 4 | **10** | Gemini |
+| 54 | **New Petrostates** | Emerging oil-state powers reshaping supply | 4 | 3 | 3 | **10** | ChatGPT |
+| 55 | **Price-Maker Fringe** | Outside the power centre, yet moves benchmarks | 3 | 4 | 3 | **10** | ChatGPT |
+| 56 | **The Surge Seven** | Top 7 growth drivers: Brazil, Guyana, Norway, Kazakhstan, Argentina, Nigeria, Angola | 4 | 3 | 3 | **10** | Gemini |
+| 57 | **TITAN** | The Independent Titans / The Independent Thirteen | 4 | 3 | 3 | **10** | Claude |
+| 58 | **WILDCATTERS** | Independent explorers drilling outside proven fields | 3 | 3 | 4 | **10** | Claude |
+| 59 | **BLINK** | Brazil, Libya, Iraq, Norway, Kazakhstan (top-5 sub-bloc) | 3 | 2 | 4 | **9** | Claude |
+| 60 | **FRONTIER 13** | 13-nation frontier production group | 3 | 3 | 3 | **9** | Claude |
 
 ---
 
